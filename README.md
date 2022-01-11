@@ -1,5 +1,5 @@
 # C# Notebook #
 
-This repo is designed to discuss important and complex topic in C#. It may also include some general notes or best practices to improve C# programs. 
+This repo is designed to discuss important and complex topics in C#. It may also include some general notes or best practices to improve C# programs. 
 
-Topic are devided into branches, each branch includes multiple commits, each a commit discuss subtopics. 
+Topic are divided into branches, each branch includes multiple commits, each commit discuss a subtopic. 
